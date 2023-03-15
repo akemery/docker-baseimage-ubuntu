@@ -1,7 +1,7 @@
-FROM alpine:3.12 as rootfs-stage
+FROM alpine:3.17 as rootfs-stage
 
 # environment
-ENV REL=bionic
+ENV REL=jammy
 ENV ARCH=amd64
 # install packages
 RUN \

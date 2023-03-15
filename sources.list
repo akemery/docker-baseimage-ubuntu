@@ -1,12 +1,20 @@
-deb http://archive.ubuntu.com/ubuntu/ bionic main restricted
-deb-src http://archive.ubuntu.com/ubuntu/ bionic main restricted
-deb http://archive.ubuntu.com/ubuntu/ bionic-updates main restricted
-deb-src http://archive.ubuntu.com/ubuntu/ bionic-updates main restricted
-deb http://archive.ubuntu.com/ubuntu/ bionic universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ bionic universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ bionic-updates universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ bionic-updates universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ bionic-security main restricted
-deb-src http://archive.ubuntu.com/ubuntu/ bionic-security main restricted
-deb http://archive.ubuntu.com/ubuntu/ bionic-security universe multiverse
-deb-src http://archive.ubuntu.com/ubuntu/ bionic-security universe multiverse
+deb http://bj.archive.ubuntu.com/ubuntu/ jammy main restricted
+deb-src http://bj.archive.ubuntu.com/ubuntu/ jammy main restricted
+deb http://bj.archive.ubuntu.com/ubuntu/ jammy-updates main restricted
+deb-src http://bj.archive.ubuntu.com/ubuntu/ jammy-updates main restricted
+deb http://bj.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
+deb-src http://bj.archive.ubuntu.com/ubuntu/ jammy-backports main restricted universe multiverse
+deb http://bj.archive.ubuntu.com/ubuntu/ jammy-updates universe
+deb-src http://bj.archive.ubuntu.com/ubuntu/ jammy-updates universe
+deb http://security.ubuntu.com/ubuntu jammy-security main restricted
+deb-src http://security.ubuntu.com/ubuntu jammy-security main restricted
+deb http://security.ubuntu.com/ubuntu jammy-security universe
+deb-src http://security.ubuntu.com/ubuntu jammy-security universe
+deb http://bj.archive.ubuntu.com/ubuntu/ jammy universe
+deb-src http://bj.archive.ubuntu.com/ubuntu/ jammy universe
+deb http://bj.archive.ubuntu.com/ubuntu/ jammy multiverse
+deb-src http://bj.archive.ubuntu.com/ubuntu/ jammy multiverse
+deb http://bj.archive.ubuntu.com/ubuntu/ jammy-updates multiverse
+deb-src http://bj.archive.ubuntu.com/ubuntu/ jammy-updates multiverse
+deb http://security.ubuntu.com/ubuntu jammy-security multiverse
+deb-src http://security.ubuntu.com/ubuntu jammy-security multiverse
